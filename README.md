@@ -1,4 +1,5 @@
-### Hi there 👋
+CS student @ Western Governors University 🦉
+Music lover / raver in my spare time 🕺
 
 <!--
 **travage/travage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
